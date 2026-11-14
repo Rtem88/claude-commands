@@ -54,7 +54,7 @@ ${steps(c)}
 ${fullPrompt(c)}
 \`\`\`
 
-— @rtem_design · зроблено в Claude, по одному рядку
+— @rtem_design · https://rtemdesign.com · зроблено в Claude, по одному рядку
 `);
 }
 // ---------- commands-base + README ----------
@@ -75,7 +75,7 @@ writeFileSync(join(PK, 'README.md'), `# /відео-команди для Claude
 ${CMDS.map(c => `- \`/${c.n}\` — ${c.d}`).join('\n')}
 
 ---
-@rtem_design · https://instagram.com/rtem_design
+@rtem_design · https://rtemdesign.com · https://instagram.com/rtem_design
 `);
 
 // ---------- zips + manifest ----------

@@ -93,4 +93,4 @@
 - `/song-card` — Картка «Зараз грає» на чистій сцені, потім шторка відкриває кадр з одним словом.
 
 ---
-@rtem_design · https://instagram.com/rtem_design
+@rtem_design · https://rtemdesign.com · https://instagram.com/rtem_design

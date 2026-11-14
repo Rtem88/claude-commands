@@ -1,6 +1,6 @@
 # /відео-команди для Claude — rtem_design
 
-80 відеоефектів з рілсу [@rtem_design](https://instagram.com/rtem_design). Пишеш одну слеш-команду в Claude Code — і він збирає ефект на твоєму відео.
+80 відеоефектів з рілсу [@rtem_design](https://instagram.com/rtem_design) · [rtemdesign.com](https://rtemdesign.com). Пишеш одну слеш-команду в Claude Code — і він збирає ефект на твоєму відео.
 
 **Сторінка:** відкрий GitHub Pages цього репозиторію — там каталог, превʼю, промпти і завантаження.
 
